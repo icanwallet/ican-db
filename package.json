@@ -5,7 +5,7 @@
   "description": "ican-db",
   "keywords": [
     "ican-db"
-],
+  ],
   "engines": {
     "HBuilderX": "^3.1.0"
   },
@@ -78,6 +78,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "skyboy",
-"license": "ISC",
-"repository": ""
+  "license": "ISC",
+  "repository": ""
 }
