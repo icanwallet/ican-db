@@ -148,7 +148,6 @@ module.exports = function(tableName = 'coins') {
 				} else if (ftype == 'Array') {
 					defval[fname] = [];
 				}
-
 			}
 			fieldtype[fname] = ftype;
 			fields.push(fname);
